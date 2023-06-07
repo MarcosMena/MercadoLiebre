@@ -1,0 +1,80 @@
+#marco{
+    background-color:#EAC926;
+}
+header{
+    font-size: 40px;
+    color:  #03264C;
+    font-family: 'Roboto', sans-serif;
+};
+#cabecera{
+    align-items: center;
+}
+.botondecompra{
+    margin-left: 200px;
+
+}
+.nav-search-input{
+    margin-left: 100px;
+    margin-bottom: 30px;
+    padding-right: 30px;
+}
+header div .letra{
+    font-size: 15px;
+    text-orientation: sideways-right;
+    font-family: 'Roboto', sans-serif;
+    display:block;
+    margin-left: 100px;
+    word-spacing: 200px;
+    margin-top: auto;
+}
+.úlimavisita{
+    font-family: 'Roboto', sans-serif;
+    color:  #242222d8; 
+    margin-left: 200px;
+}
+.item-padre{
+    display:flex;
+    flex-direction: row;
+    width: 300px;
+    height: 400px;
+    margin-left: 300px;
+    align-items: center;
+    font-family:'Roboto', sans-serif;
+}
+.item-padre .item-hijo{
+    display: flex;
+    flex-direction: column;
+}
+.item-padre .descuento{
+    color:#39b54a;
+}
+.productosoferta{
+  text-align: center;
+}
+
+.ofertas{
+    font-family: 'Roboto', sans-serif;
+    color:  #242222d8; 
+    margin-left: 200px;
+}
+.ultimoboton{
+    text-align: center;
+}
+.div1{
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    padding-left: 550px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 45px;
+}
+.div1 .parrafosfooter{
+    color: #666;
+}
+.div1 .titulofooter{
+    color:  #03264C;
+}
+#h4{
+    color: #666;
+}
+@media screen and (min-width:330px) and (max-width:500px){};
